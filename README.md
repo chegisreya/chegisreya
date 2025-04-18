@@ -5,9 +5,7 @@
 <h1 align="center">Hey, I'm <span style="color:#b46ad4;">Sreya</span> 👋</h1>
 
 <p align="center">
-  <strong>CS Undergrad @ KLH</strong> • Aspiring SWE • Hackathon Enthusiast <br/>
-  A mix of logic & creativity — coding with rhythm, and dancing with structure.
-</p>
+  <strong>CS Undergrad @ KLH</strong> • Aspiring SWE • Hackathon Enthusiast  •  Kuchipudi Dancer & Event Manager  • NCC Cadet </p>
 
 ---
 
