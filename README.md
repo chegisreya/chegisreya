@@ -11,11 +11,11 @@
 
 ### 🧭 About Me
 
-I'm a 3rd-year CSE student passionate about problem-solving, systems thinking, and building smart, meaningful applications.
+- 💻 I'm a 3rd-year Computer Science student exploring tech through code, creativity, and curiosity.
+- ⚡ Outside the classroom, I dive into hackathons, building cool stuff with friends, and solving problems under pressure.
+- 🎭 I'm also a Kuchipudi dancer and a member of the National Cadet Corps — where I balance discipline and art with passion.
+- 🤝 Always open to internships, collabs, and tech convos. Let's build something awesome together!
 
-- 🛠️ Tech lover with an eye for design and detail
-- 🎯 Always down to brainstorm, build, debug, and iterate
-- 🎭 Kuchipudi dancer | NCC cadet | Curious human
 
 > Currently open to internships & collaborations in Software Engineering, Full Stack, or Cloud projects.
 
@@ -64,8 +64,8 @@ I'm a 3rd-year CSE student passionate about problem-solving, systems thinking, a
 
 ### 🧠 Currently Learning
 
-- ⚙️ DevOps Tools
-- ☁️ Cloud Native Apps
+- ⚙️ Design Tools
+- ☁️ Cybersecurty & Blockchain concepts
 - 🧩 System Design Concepts
 
 ---
